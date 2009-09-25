@@ -8,9 +8,9 @@ based upon Gertjan van Noord's Perl implementation[3].
 textcat.py provides a command-line interface to the library. Run it with no
 arguments to see usage information.
 
-PyTextCat is released under GPLv2 (see COPYING). The lm files and test texts
-are from TextCat[3], and are therefore licensed under LGPLv2.1
-(see COPYING.LGPL).
+PyTextCat is released under the LGPLv2.1 (see COPYING.LESSER and COPYING).
+The lm files and test texts are from TextCat[3], and are licensed under the
+same license.
 
 [1] http://da.vidr.cc/projects/pytextcat/
 [2] http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.53.9367
